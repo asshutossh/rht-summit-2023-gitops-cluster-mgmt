@@ -11,7 +11,7 @@ patches:
 # value of metadata.name to "project-memes-prod"
 - target:
     kind: Namespace
-    name: Second-name-space
+    name: for-replacement
   patch: |-
     - op: replace
       path: /metadata/name
