@@ -27,4 +27,4 @@ patches:
       value: 2
     - op: replace
       path: /spec/hard/memory
-      value: 32i
+      value: 1Gi
