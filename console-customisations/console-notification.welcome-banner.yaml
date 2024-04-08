@@ -3,7 +3,7 @@ kind: ConsoleNotification
 metadata:
   name: welcome-banner
 spec:
-  backgroundColor: '#EE0000'
+  backgroundColor: '#7855faff'
   color: '#fff'
   link:
     href: https://event.nutanix.com/nugswissapril2024
