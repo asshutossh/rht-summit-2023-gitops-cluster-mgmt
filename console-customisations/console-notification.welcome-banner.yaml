@@ -6,7 +6,7 @@ spec:
   backgroundColor: '#EE0000'
   color: '#fff'
   link:
-    href: https://www.redhat.com/en/summit
+    href: https://event.nutanix.com/nugswissapril2024
     text: (Event Information)
   location: BannerTop
-  text: Hola Ashutosh, Welcome to Red Hat Summit 2023!
+  text: Hola Ashutosh, Welcome to Nutanix User Group Event 2024!
